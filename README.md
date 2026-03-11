@@ -1,4 +1,4 @@
-# Hi, I'm Abram Onthatile 👋
+# Hi, I'm Abram Onthatile 
 
 🎓 ICT Application Development Graduate
 💻 Software Developer | Backend & Full-Stack Development
@@ -155,7 +155,7 @@ Features:
 
 ## 📫 Contact
 
-Email: [your-email@email.com](onthatileabram@gmail.com)
+Email: [onthatileabram@gmail.com](onthatileabram@gmail.com)
 
 
 ---
