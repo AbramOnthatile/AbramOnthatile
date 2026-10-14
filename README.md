@@ -1,163 +1,187 @@
-# Hi, I'm Abram Onthatile 
+# Hi, I'm Abram Onthatile 👋
 
-🎓 ICT Application Development Graduate
-💻 Software Developer | Backend & Full-Stack Development
-🌍 Passionate about building practical systems that solve real problems.
+🎓 **ICT Application Development Graduate**  
+💻 **Software Developer | Backend & Full-Stack Development**  
+🤖 **Exploring Artificial Intelligence & Software Engineering**
+
+I am an ICT Application Development graduate from Cape Peninsula University of Technology (CPUT), currently developing my skills through the CAPACITI Software Engineering Programme. I enjoy building practical web applications, backend systems, and AI-powered solutions that solve real-world problems.
+
+🌐 **[View My Portfolio](https://onthatileabram.netlify.app/#/)** | 💻 **[Explore My GitHub Projects](https://github.com/AbramOnthatile?tab=repositories)** | 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/onthatilemohlamonyane/)**
 
 ---
 
 ## 🚀 About Me
 
-I am an ICT Application Development graduate with experience building web applications, backend systems, and desktop applications. I enjoy working on real-world software systems such as management platforms, booking systems, and full-stack applications.
-
-I have experience working with multiple technologies across backend, frontend, and database development.
+- 🎓 Graduated in ICT Application Development from Cape Peninsula University of Technology (CPUT).
+- 💻 Interested in backend development, full-stack applications, and software engineering.
+- 🤖 Expanding my knowledge of Artificial Intelligence and AI-powered applications.
+- 🌱 Continuously learning, building projects, and improving my technical skills.
+- 🛠️ Enjoy working with different programming languages, frameworks, and databases.
+- 🤝 Open to collaboration, learning opportunities, and junior software development roles.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
+- Java
+- Python
+- JavaScript
+- PHP
+- Kotlin (Basic)
 
-* Java
-* Python
-* JavaScript
-* PHP
-* Kotlin (basic)
+### Backend Development
+- Spring Boot
+- Django
+- Flask
+- Node.js
+- Express.js
+- Laravel
+- REST APIs
+- MVC Architecture
 
-### Backend Frameworks
-
-* Spring Boot
-* Django
-* Flask
-* Laravel
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* React
+### Frontend Development
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
 
 ### Databases
-
-* MySQL
-* Apache Derby
+- MySQL
+- Apache Derby
 
 ### Development Tools
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* VS Code
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Vite
 
 ---
 
 ## 📌 Featured Projects
 
-### Anime Store (Full Stack)
+### 🛒 AnimeWear — Full-Stack E-commerce Application
 
-A full-stack web application built with Spring Boot and React.
+An anime-themed online store designed to provide an interactive shopping experience.
 
-Features:
+**Key Features**
+- Product listing and management
+- Shopping cart functionality
+- User accounts
+- Product reviews
+- Backend REST API integration
 
-* REST API backend
-* Product management system
-* CRUD operations
-* Frontend user interface
+**Technologies:** React.js, Spring Boot, MySQL, Bootstrap
 
----
-
-### Client-Server System (Java)
-
-A Java client-server application using socket programming and Apache Derby database.
-
-Features:
-
-* Client-server communication
-* Database storage
-* Multi-user interaction
-* Data exchange between server and clients
+🔗 [Explore My GitHub Repositories](https://github.com/AbramOnthatile?tab=repositories)
 
 ---
 
-### Flight Booking System
+### 🎓 UniDigital — Digital Student Card System
 
-A web-based system that allows users to search and book flights.
+A student-focused application designed to improve digital student card registration, status tracking, and collection management.
 
-Features:
+**Key Features**
+- Student registration and card status tracking
+- Student card collection management
+- Backend API development
+- Database integration
 
-* Flight search
-* Booking management
-* Passenger details form
-* Admin management
+**Technologies:** Java, Spring Boot, MySQL, JavaScript, Bootstrap
 
----
-
-### Event Management System
-
-Web application for organizing and managing events.
-
-Features:
-
-* Event creation
-* Event registration
-* Event listing
-* Admin controls
+🔗 [Explore My GitHub Repositories](https://github.com/AbramOnthatile?tab=repositories)
 
 ---
 
-### Nursing Portal System
+### 👕 Hoodline — Clothing E-commerce Platform
 
-A portal for managing patient records and healthcare information.
+An online clothing store concept focused on bringing local streetwear to a wider South African audience.
 
-Features:
+**Key Features**
+- User registration and login
+- Clothing product management
+- E-commerce functionality
+- Frontend and backend integration
 
-* Nurse login
-* Patient records management
-* Appointment scheduling
+**Technologies:** Python, Django, JavaScript, React.js, Vite
 
----
-
-### Blog Website
-
-A blog platform where users can create and manage blog posts.
-
-Features:
-
-* Create posts
-* Edit posts
-* Delete posts
-* View articles
+🔗 [Explore My GitHub Repositories](https://github.com/AbramOnthatile?tab=repositories)
 
 ---
 
-### Digital Student Card System
+### 🍲 AI Recipe Generator
 
-A web system that allows students to access a digital version of their student ID card.
+An AI-powered application concept that generates recipe ideas based on ingredients users have available.
 
-Features:
+**Key Features**
+- Ingredient-based recipe generation
+- AI API integration
+- Backend development with Django
+- Frontend and backend communication
 
-* Student login
-* Digital student ID display
-* Secure access to student information
+**Technologies:** Python, Django, JavaScript, AI APIs
 
----
-
-## 🌱 Currently Improving
-
-* Backend architecture
-* REST API design
-* Full-stack application development
-* Software system design
+🔗 [Explore My GitHub Repositories](https://github.com/AbramOnthatile?tab=repositories)
 
 ---
 
-## 📫 Contact
+### 🏢 CAPACITI Registration & Work-from-Home Management System
 
-Email: [onthatileabram@gmail.com](onthatileabram@gmail.com)
+A team project focused on simplifying candidate registration and managing work-from-home activities.
 
+**Key Features**
+- Candidate registration and management
+- Attendance tracking
+- Work-from-home requests
+- Notifications and progress tracking
+- Reporting and user management
+
+**Technologies:** React.js, Tailwind CSS, Java Spring Boot, Firebase
+
+🔗 [Explore My GitHub Repositories](https://github.com/AbramOnthatile?tab=repositories)
 
 ---
 
-⭐ Feel free to explore my repositories to see my projects and development work.
+## 🌱 Currently Learning & Improving
+
+- Artificial Intelligence and AI-powered applications
+- Software engineering principles and best practices
+- Backend architecture and REST API development
+- Full-stack development using React and Spring Boot
+- Database design and integration
+- Git, GitHub, and collaborative software development
+
+---
+
+## 💡 Soft Skills
+
+- Problem-solving and critical thinking
+- Teamwork and collaboration
+- Communication and interpersonal skills
+- Adaptability and continuous learning
+- Time management and organisation
+- Analytical thinking
+- Attention to detail
+- Accountability and professionalism
+
+---
+
+## 🎯 My Goal
+
+My goal is to grow as a software engineer, contribute to meaningful technology projects, and build reliable applications that solve real-world problems. I am committed to continuous learning, improving my technical abilities, and gaining experience in the software development industry.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [onthatileabram.netlify.app](https://onthatileabram.netlify.app/#/)
+- 💻 **GitHub:** [AbramOnthatile](https://github.com/AbramOnthatile)
+- 📂 **All Projects:** [View My Repositories](https://github.com/AbramOnthatile?tab=repositories)
+- 💼 **LinkedIn:** [Abram Onthatile Mohlamonyane](https://www.linkedin.com/in/onthatilemohlamonyane/)
+- ✉️ **Email:** [onthatileabram@gmail.com](mailto:onthatileabram@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey in software development.
