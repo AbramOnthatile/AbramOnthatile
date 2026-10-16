@@ -6,7 +6,7 @@
 
 I am an ICT Application Development graduate from Cape Peninsula University of Technology (CPUT), currently developing my skills through the CAPACITI Software Engineering Programme. I enjoy building practical web applications, backend systems, and AI-powered solutions that solve real-world problems.
 
-🌐 **[View My Portfolio](https://portfolio-website-onthatile.vercel.app/#/)** | 💻 **[Explore My GitHub Projects](https://github.com/AbramOnthatile?tab=repositories)** | 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/onthatilemohlamonyane/)**
+🌐 **[View My Portfolio](https://onthatileabram.vercel.app)** | 💻 **[Explore My GitHub Projects](https://github.com/AbramOnthatile?tab=repositories)** | 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/onthatilemohlamonyane/)**
 
 ---
 
